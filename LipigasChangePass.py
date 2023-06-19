@@ -71,9 +71,3 @@ def ChangePass(Rut,password,newpass):
     
     time.sleep(15)
     driver.close()
-
-
-
-
-
-ChangePass('20311124-K','Briatan','Briatan1')

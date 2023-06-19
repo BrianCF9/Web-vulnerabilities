@@ -44,5 +44,3 @@ def Login(Rut,password):
                         .click()
     time.sleep(15)
     driver.close()
-    
-Login('9467219-8','Briatan')

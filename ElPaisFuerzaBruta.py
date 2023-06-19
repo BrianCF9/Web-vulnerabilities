@@ -66,6 +66,6 @@ def FuerzaBruta(email):
     driver.close()
     f.close()
     
-FuerzaBruta('brian.castro@mail.udp.cl')
+
 
 

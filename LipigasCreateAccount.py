@@ -83,4 +83,3 @@ def Create(correo,nombre,apellido,password,telefono,rut):
                         .click()
         time.sleep(10)
         driver.close()
-Create('elidiocastro12@gmail.com','brian','castro','Briatan',85173363,'9.467.219-8')

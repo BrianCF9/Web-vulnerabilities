@@ -53,5 +53,3 @@ def Login(email,password):
                         .click()
     time.sleep(15)
     driver.close()
-    
-Login('brian.castro@mail.udp.cl','Briancastro1')

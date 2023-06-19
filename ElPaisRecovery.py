@@ -61,12 +61,3 @@ def Recovery(email):
 
     time.sleep(15)
     driver.close()
-
-Recovery('brian.castro@mail.udp.cl')
-
-
-
-
-    
-
-

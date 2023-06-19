@@ -62,5 +62,3 @@ def FuerzaBruta(Rut):
 
     driver.close()
     f.close()
-    
-FuerzaBruta('9467219-8')

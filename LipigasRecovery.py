@@ -52,12 +52,3 @@ def Recovery(Rut,email):
 
     time.sleep(15)
     driver.close()
-
-Recovery('20.311.124-K','brian.castro@mail.udp.cl')
-
-
-
-
-    
-
-

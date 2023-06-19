@@ -85,9 +85,3 @@ def ChangePass(email,password,newpass):
     
     time.sleep(15)
     driver.close()
-
-
-
-
-
-ChangePass('brian.castro@mail.udp.cl','Briancastro1','Briancastro2')
